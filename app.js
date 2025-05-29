@@ -1,3 +1,4 @@
+app.use(express.static(path.join(__dirname)));
 const path = require('path');
 const express = require('express');
 const nodemailer = require('nodemailer');
