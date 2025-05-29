@@ -4,8 +4,9 @@
 
 ## Անհրաժեշտ միջավայրի փոփոխականներ
 
-- `EMAIL_USER`: քո Gmail հասցեն
-- `EMAIL_PASS`: App Password-ը Google-ից
+- `EMAIL_USER`:stepanyanstepan00@gmail.com
+- `EMAIL_PASS`:  wpvj enpb rfin vyns
+
 
 ## Օգտագործում
 
